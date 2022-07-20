@@ -12,8 +12,8 @@
 ### Connect with me:
 
 [<img align="left" alt="resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="KostikIan | Codewars" width="22px" src="https://sun9-west.userapi.com/sun9-69/s/v1/if2/NSHk8EZQ0BI0vo7scwXzA7OGmTadWaUq7iroQ-rgh92uQzPgRaZSp6Yyvh_xiT3BP-TgBgSNc4LEdZzpkbS2OYww.jpg?size=150x150&quality=96&type=album" />][Codewars]
-[<img align="left" alt="KostikIan | Telegram" width="22px" src="https://sun9-north.userapi.com/sun9-81/s/v1/if2/pJlhegzQBfuXexIp-7-dYZBf5AcgR1ly2l2xd4v54_yiwkjs0y6_3-9wpfEmQBMYTzhh0z7BVG85jqFA09FcYFvz.jpg?size=583x582&quality=96&type=album"/>][Telegram]
+[<img align="left" alt="KostikIan | Codewars" width="22px" src="https://disk.yandex.ru/i/NbVl6QShMeUdTA />][Codewars]
+[<img align="left" alt="KostikIan | Telegram" width="22px" src="image.png/>][Telegram]
 [<img align="left" alt="KostikIan | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
