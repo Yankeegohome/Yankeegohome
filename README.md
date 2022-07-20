@@ -12,8 +12,8 @@
 ### Connect with me:
 
 [<img align="left" alt="resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="KostikIan | Codewars" width="22px" src="https://disk.yandex.ru/i/NbVl6QShMeUdTA />][Codewars]
-[<img align="left" alt="KostikIan | Telegram" width="22px" src="image.png/>][Telegram]
+[<img align="left" alt="KostikIan | Codewars" width="22px" src="https://disk.yandex.ru/i/NbVl6QShMeUdTA" />][Codewars]
+[<img align="left" alt="KostikIan | Telegram" width="22px" src="image.png" />][Telegram]
 [<img align="left" alt="KostikIan | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
