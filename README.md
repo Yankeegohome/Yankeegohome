@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Konstantin Yan
 
-![](https://www.codewars.com/users/Yankeegohome/badges/large)
+![](https://www.codewars.com/users/Yankeegohome/badges/small)
 
 ## I'm looking for a job at the moment
 - 🙃 I like to write code
@@ -20,13 +20,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Django" width="26px" src="https://sun9-west.userapi.com/sun9-71/s/v1/if2/_uw2OGDxgda_vHovIS58TSPYUXIXLA--woF0hTAc6_JGHJwIsEKS4XSivBldVp78KtPNFtSrpFlQvos6OJivqmYS.jpg?size=622x401&quality=96&type=album" />
+<img align="left" alt="Django" width="26px" src="https://office-guru.ru/wp-content/uploads/2021/11/python_django.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://sun9-west.userapi.com/sun9-9/s/v1/if2/cJcmnhJZgDo-Gi1Zvf57YqKKgrjRiiuaX48QahNHVuGTcdFW293evfLvlWSIT09Xk1zUh08JeZD9leflpj6_51JK.jpg?size=1024x1024&quality=96&type=album" />
+<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://sun9-west.userapi.com/sun9-13/s/v1/if2/Nrzwsy0Anp1wKpa6reaEfbuteooBhtzClIY7FrDCWM-tA-OCWLfQwSGgFNEEDNuzCQ9oHGjfeZpsZDxUWZv1In1V.jpg?size=910x910&quality=96&type=album" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://sun9-east.userapi.com/sun9-32/s/v1/if2/UEMo4rRoy0jWaxu6i_zo3LroUAVGk-Ry5tE3Kyy-seGyba62l4i3RpuBQg2gpeadQVO7fJW9-o5QX_nOhfRaIj1w.jpg?size=920x600&quality=96&type=album" />
+<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://img.tehnomaks.ru/img/prod/full/1533641906_3.png" />
 
 
 <br />
