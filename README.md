@@ -33,7 +33,7 @@
 <br />
 
 
-[website]: https://yankeegohome.github.io/resume/
+[website]: https://yankeegohome.github.io/NewResume/
 [Codewars]: https://www.codewars.com/users/Yankeegohome/
 [Telegram]: https://t.me/Ush1wakamaru
 [vk]: https://vk.com/focu5nick
