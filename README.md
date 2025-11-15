@@ -11,10 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="KostikIan | Codewars" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" />][Codewars]
 [<img align="left" alt="KostikIan | Telegram" width="22px" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-2/512/telegram-512.png" />][Telegram]
-[<img align="left" alt="KostikIan | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
 
 <br />
 
