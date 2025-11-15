@@ -4,9 +4,7 @@
 
 ## I'm looking for a job at the moment
 - 🙃 I like to write code
-- 🎮 I love to play dota and CSGO
-- 🤓 I am constantly learning new things
-- 📘 I love reading articles on https://habr.com/ru/all/
+- 🎮 I love to play dota and CS2
 - 🏓 I like Ping pong 
 
 ### Connect with me:
