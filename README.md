@@ -4,8 +4,8 @@
 
 ## I'm looking for a job at the moment
 - 🙃 I like to write code
-- 🎮 I love to play dota and CS2
-- 🏓 I like Ping pong 
+- 🎮 CS2
+- 🏓 Ping pong 
 
 ### Connect with me:
 
